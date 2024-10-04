@@ -1,0 +1,9 @@
+[submodule "metametrics/metrics/GEMBA"]
+	path = metametrics/metrics/GEMBA
+	url = https://github.com/MicrosoftTranslator/GEMBA.git
+[submodule "metametrics/metrics/BARTScore"]
+	path = metametrics/metrics/BARTScore
+	url = https://github.com/neulab/BARTScore.git
+[submodule "metametrics/metrics/bleurt"]
+	path = metametrics/metrics/bleurt
+	url = https://github.com/google-research/bleurt.git
